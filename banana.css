@@ -1,0 +1,27 @@
+.bodyy {
+    background-color: yellow;
+}
+
+h1 {
+    margin: 38%;
+    background-color: black;
+    color: lightyellow;
+    font-family: "American Typewriter";
+    text-align: center;
+}
+
+hr.new5 {
+    border: 3px solid black;
+}
+
+.imagey {
+    padding-left: 35%;
+}
+
+.block {
+    background-color: yellow;
+    outline-style: solid;
+    outline-color: black;
+    margin: 20px;
+    padding: 10px;
+}
